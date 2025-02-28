@@ -1,0 +1,10 @@
+[package]
+name = "stage-4"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "stage_3"
+path = "lib/lib.rs"
+
+[dependencies]
