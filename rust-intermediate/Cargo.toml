@@ -1,0 +1,12 @@
+[package]
+name = "stage-6-adv-traits"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "lib"
+path = "lib/lib.rs"
+
+[dependencies]
+thiserror = "2.0.11"
+chrono = "0.4.39"
